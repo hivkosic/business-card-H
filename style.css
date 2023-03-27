@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    padding:  100px; 
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.card {
+    width:400px;
+    padding: 30px;
+    margin: auto;
+
+    background: lightblue;
+    border: 6px solid #a796eb;
+
+    text-align: center;
+
+    display: flex;
+    justify-content: space-around;
+}
